@@ -1,0 +1,2 @@
+# lakesdiamondclub
+Static site: lakesdiamondclub
